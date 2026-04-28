@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+  }
+  
 body, textarea {
     font-size: 16px;
     font-family: "Raleway", serif;
